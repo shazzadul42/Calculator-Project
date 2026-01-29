@@ -61,6 +61,7 @@ git clone https://github.com/shazzadul42/Calculator-Project.git<br>
 📸 Screenshots<br>
 
 ![image alt](https://github.com/shazzadul42/Calculator-Project/blob/5a0e5f2e8b7a9826a025a211d68769d754c152d9/calculator%20ui2.jpg)
+![image alt](https://github.com/shazzadul42/Calculator-Project/blob/master/calculator%20ui3.jpg?raw=true)
 
 <br>
 <br>
